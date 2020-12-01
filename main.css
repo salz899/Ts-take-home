@@ -1,6 +1,5 @@
 #header {
     height: 125px;
-/*    width: 100%;*/
     background-color: black;
     display: flex;
     padding-left: 32px;
@@ -14,7 +13,7 @@
     margin-right: 50px;
 }
 
-.header-link:hover{
+.header-link:hover {
     color: #A1ACB3;
 
 }
@@ -39,9 +38,6 @@
 
 .header-logo img {
     width:100%;
-/*    margin: 10px 0 10px 0;*/
-/*    display: block;*/
-/*    height:auto;*/
 }
 
 .header-links {
@@ -82,13 +78,13 @@ body {
     margin-bottom: 12px;
 }
 
-#robot-check > label{
+#robot-check > label {
     float:right;
     margin-right: 50px;
     margin-bottom: 12px;
 }
 
-#info-form > :nth-child(7){
+#info-form > :nth-child(7) {
     width:100%;
 }
 
@@ -106,15 +102,15 @@ body {
         display: none;
     }
 
-    .header-quote{
+    .header-quote {
         display: none;
     }
     
-    .large-logo{
+    .large-logo {
         display: none;
     }
     
-    .small-logo{
+    .small-logo {
         display:flex;
     }
     
@@ -123,11 +119,5 @@ body {
         width:40px;
         
     }
-
-/*
-    #info-form {
-        width:90%;
-    }
-*/
     
 }
