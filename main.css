@@ -3,8 +3,7 @@
     background-color: black;
     display: flex;
     padding-left: 32px;
-    padding-right: 32px;
-    
+    padding-right: 32px; 
 }
 
 .header-link {
@@ -15,7 +14,6 @@
 
 .header-link:hover {
     color: #A1ACB3;
-
 }
 
 .header-quote {
@@ -71,7 +69,6 @@ body {
     width:100%;
     margin-bottom: 12px;
 }
-
 
 #name {
     width: 100%;
